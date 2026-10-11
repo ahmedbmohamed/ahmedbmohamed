@@ -28,6 +28,8 @@ Engineering degree in Security of Computer Systems and Networks (TEK-UP Universi
 
 ### 📌 Other work
 
+- **[predictive-maintenance-ml](https://github.com/ahmedbmohamed/predictive-maintenance-ml)**: failure prediction on industrial sensor data with physics-based features, Random Forest and Isolation Forest (82% recall, 92% precision), served with FastAPI and Streamlit, Docker and CI with a model quality gate
+- **[network-automation-lab](https://github.com/ahmedbmohamed/network-automation-lab)**: operator backbone (OSPF, iBGP route reflector, eBGP customers) on Containerlab and FRRouting, configured with Ansible and verified by automated network tests in CI
 - **Autonomous SOC platform** (final-year project): Wazuh SIEM + machine learning + SOAR that detects and contains incidents in under 35 seconds (FortiGate and iptables blocking, host isolation)
 - **IP/MPLS backbone & L3VPN lab**: PE/P/CE with multi-area OSPF, MPLS LDP, MP-BGP VPNv4, VRFs, IP SLA monitoring
 - **LLM for SOC analysts**: natural language → KQL queries for Microsoft Sentinel (LLaMA, RAG, LoRA)
