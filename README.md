@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b4f8a,50:00b4d8,100:00e5a0&height=210&section=header&text=Ahmed%20Benmohamed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud%20%26%20DevSecOps&descAlignY=58&descSize=18" alt="Ahmed Benmohamed" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b4f8a,50:00b4d8,100:00e5a0&height=210&section=header&text=Ahmed%20Benmohamed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud%20and%20DevSecOps&descAlignY=58&descSize=18" alt="Ahmed Benmohamed" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ahmedbmohamed">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=Cybersecurity+Engineer+%7C+TEK-UP+University+2026;Building+AI-powered+SOC+automation;Secure+RAG+%26+GenAI+with+access+control;Kubernetes+%E2%80%A2+GitOps+%E2%80%A2+Ansible+%E2%80%A2+Red+Hat;%F0%9F%8F%86+Huawei+ICT+Competition+%E2%80%94+Global+2nd+Prize" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=Cybersecurity+Engineer+%7C+TEK-UP+University+2026;Building+AI-powered+SOC+automation;Secure+RAG+and+GenAI+with+access+control;Kubernetes+%E2%80%A2+GitOps+%E2%80%A2+Ansible+%E2%80%A2+Red+Hat;%F0%9F%8F%86+Huawei+ICT+Competition+%E2%80%94+Global+2nd+Prize" alt="Typing intro"/>
   </a>
 </p>
 
