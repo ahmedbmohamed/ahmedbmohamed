@@ -73,24 +73,33 @@ looking_for: junior roles in cybersecurity, GRC or AI engineering
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h4>📈 <a href="https://github.com/ahmedbmohamed/infra-observability-lab">infra-observability-lab</a></h4>
+      Terraform builds the network, two web servers, Prometheus and Grafana. Ansible hardens SSH and deploys nginx over HTTPS with an internal CA. CI runs 18 tests and a <b>live outage drill</b>: nginx is stopped and the alert must fire, then clear.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Terraform-7b42bc?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/-Ansible-ee0000?style=flat-square&logo=ansible&logoColor=white"/> <img src="https://img.shields.io/badge/-Prometheus-e6522c?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/-Grafana-f46800?style=flat-square&logo=grafana&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
       <h4>🛰️ <a href="https://github.com/ahmedbmohamed/network-automation-lab">network-automation-lab</a></h4>
       Operator backbone on Containerlab and FRRouting (OSPF, iBGP route reflector, eBGP customers), configured from Ansible templates and verified by automated network tests in CI.
       <br/><br/>
       <img src="https://img.shields.io/badge/-Ansible-ee0000?style=flat-square&logo=ansible&logoColor=white"/> <img src="https://img.shields.io/badge/-FRRouting-2c3e50?style=flat-square"/> <img src="https://img.shields.io/badge/-OSPF%20%2F%20BGP-0b4f8a?style=flat-square"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>👁️ <a href="https://github.com/ahmedbmohamed/Presence_Management">Presence_Management</a></h4>
       Attendance app based on face recognition (128-dimension encodings with a pre-trained dlib model), security log of failed attempts, Streamlit, SQLite, pytest and CI.
       <br/><br/>
       <img src="https://img.shields.io/badge/-dlib-008000?style=flat-square"/> <img src="https://img.shields.io/badge/-SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/-pytest-0a9edc?style=flat-square&logo=pytest&logoColor=white"/>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,linux,redhat,ubuntu,docker,kubernetes,ansible,githubactions,git&perline=10" alt="Systems and DevOps"/>
+  <img src="https://skillicons.dev/icons?i=py,bash,linux,redhat,ubuntu,docker,kubernetes,ansible,terraform,githubactions,prometheus,grafana,git&perline=13" alt="Systems and DevOps"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite,sklearn,pytorch,azure,aws,vscode,kali&perline=10" alt="AI, data and cloud"/>
 </p>
